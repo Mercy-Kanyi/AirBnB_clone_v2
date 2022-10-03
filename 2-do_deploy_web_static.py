@@ -6,7 +6,7 @@ from fabric.operations import put
 from datetime import datetime
 import os
 
-env.hosts = ["3.239.57.219", "3.238.175.234"]
+env.hosts = ["3.239.57.219", "3.228.21.63"]
 env.user = "ubuntu"
 
 
